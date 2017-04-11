@@ -40,8 +40,8 @@ function init() {
 
     $('.frame-2 p').html('TROUBLE WITH<br>THE BUBBLE?');
     $('.frame-3 p').html('THE RISE AND RISE<br>OF THE PROPERTY<br>MARKET');
-    $('.frame-4 p').html('KNOW THE MARKET<br>WITH THE AFR');
-    $('.frame-5 p').html('TRY THE AFR<br>FREE FOR 1 MONTH');
+    $('.frame-4 p').html('KNOW THE MARKET<br>WITH THE AFR.');
+    $('.frame-5 p').html('TRY THE AFR<br>FREE FOR 1 MONTH.');
 
     $('.cta-copy').html('Find out more');
 
@@ -74,8 +74,6 @@ function init() {
     frame05 = timingValues[4];
 
     const manifest = [
-        "grumpycat.jpg",
-        "photo.jpg",
         "housebubble.png",
         "house.png",
         "roof.png",
